@@ -1,0 +1,48 @@
+.header {
+  background-color: purple;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.list {
+  background-color: lightsalmon;
+  color: black;
+  padding: 5px;
+}
+
+.ulContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.body {
+  background-color: #c7abab;
+  color: rgb(0, 0, 0);
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+.ul {
+  background-color: lightsalmon;
+  display: flex;
+  flex-direction: row;
+  width: 75%;
+  min-width: 0px;
+  align-items: center;
+  justify-content: center;
+}
+
+.li {
+  padding: 10px;
+  display: flex;
+  flex: 1;
+  align-items: center;
+  color: black;
+}
+
+.routeHeader {
+  margin-left: 20px;
+  color: black;
+}
